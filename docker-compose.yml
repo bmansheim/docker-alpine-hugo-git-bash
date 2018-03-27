@@ -1,2 +1,2 @@
 alpine-hugo-surge-git-bash:
-  image: 'andthensome/alpine-hugo-git-bash:latest'
+  image: 'jmminy/alpine-hugo-git-bash:latest'
